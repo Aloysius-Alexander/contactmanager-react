@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/contactmanager-react/static/css/main.6f31cb6b.css",
+    "main.js": "/contactmanager-react/static/js/main.bc0c5b47.js",
+    "static/media/usericon.png": "/contactmanager-react/static/media/usericon.72cae9644a69b316a1a7.png",
+    "index.html": "/contactmanager-react/index.html",
+    "main.6f31cb6b.css.map": "/contactmanager-react/static/css/main.6f31cb6b.css.map",
+    "main.bc0c5b47.js.map": "/contactmanager-react/static/js/main.bc0c5b47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f31cb6b.css",
+    "static/js/main.bc0c5b47.js"
+  ]
+}
